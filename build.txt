@@ -1,0 +1,3 @@
+displayName = Arby's Burger
+author = Astralotl, Phrench
+version = 0.1
